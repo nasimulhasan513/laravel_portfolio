@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Project 1",
+        "description": "This is the first project",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "image": "project.jpg",
+        "url": "https://example.com/project1"
+    },
+    {
+        "title": "Project 2",
+        "description": "This is the second project",
+        "technologies": [
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "image": "project.jpg",
+        "url": "https://example.com/project2"
+    },
+    {
+        "title": "Project 3",
+        "description": "This is the third project",
+        "technologies": [
+            "Python",
+            "Django",
+            "PostgreSQL"
+        ],
+        "image": "project.jpg",
+        "url": "https://example.com/project3"
+    }
+]
